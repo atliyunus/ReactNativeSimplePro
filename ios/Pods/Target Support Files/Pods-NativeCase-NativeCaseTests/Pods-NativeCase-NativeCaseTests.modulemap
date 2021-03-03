@@ -1,0 +1,6 @@
+module Pods_NativeCase_NativeCaseTests {
+  umbrella header "Pods-NativeCase-NativeCaseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

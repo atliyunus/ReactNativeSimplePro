@@ -1,0 +1,6 @@
+module Pods_NativeCase {
+  umbrella header "Pods-NativeCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
